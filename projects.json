@@ -1,0 +1,70 @@
+{
+  "_note": "FICTIONAL demo data. Prices in lakhs (INR). Replace or extend freely.",
+  "projects": [
+    {
+      "id": "aurelia-heights",
+      "name": "Aurelia Heights",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "status": "Under construction",
+      "possession": "Dec 2027",
+      "configurations": [
+        {"bhk": 2, "area_sqft": 1180, "price_lakhs_min": 118, "price_lakhs_max": 132},
+        {"bhk": 3, "area_sqft": 1620, "price_lakhs_min": 165, "price_lakhs_max": 188}
+      ],
+      "amenities": ["clubhouse", "swimming pool", "gym", "kids play area", "co-working lounge"],
+      "nearby": ["ITPL (4 km)", "Whitefield metro (2.5 km)", "Phoenix Marketcity (6 km)"],
+      "visit_days": "Mon-Sat",
+      "visit_hours": "10:00-18:00"
+    },
+    {
+      "id": "lakeview-residency",
+      "name": "Lakeview Residency",
+      "locality": "Hebbal",
+      "city": "Bengaluru",
+      "status": "Ready to move",
+      "possession": "Immediate",
+      "configurations": [
+        {"bhk": 2, "area_sqft": 1100, "price_lakhs_min": 135, "price_lakhs_max": 150},
+        {"bhk": 3, "area_sqft": 1550, "price_lakhs_min": 195, "price_lakhs_max": 215}
+      ],
+      "amenities": ["lake-facing balconies", "gym", "jogging track", "community hall"],
+      "nearby": ["Manyata Tech Park (5 km)", "Hebbal flyover (1.5 km)", "Kempegowda Airport (28 km)"],
+      "visit_days": "Mon-Sun",
+      "visit_hours": "10:00-19:00"
+    },
+    {
+      "id": "greenleaf-enclave",
+      "name": "Greenleaf Enclave",
+      "locality": "Sarjapur Road",
+      "city": "Bengaluru",
+      "status": "Under construction",
+      "possession": "Jun 2028",
+      "configurations": [
+        {"bhk": 1, "area_sqft": 690, "price_lakhs_min": 62, "price_lakhs_max": 70},
+        {"bhk": 2, "area_sqft": 1050, "price_lakhs_min": 92, "price_lakhs_max": 104},
+        {"bhk": 3, "area_sqft": 1450, "price_lakhs_min": 135, "price_lakhs_max": 150}
+      ],
+      "amenities": ["landscaped gardens", "tennis court", "gym", "multipurpose hall"],
+      "nearby": ["Wipro campus (3 km)", "Decathlon Sarjapur (2 km)", "Silk Board (14 km)"],
+      "visit_days": "Mon-Sat",
+      "visit_hours": "09:30-17:30"
+    },
+    {
+      "id": "orchid-park",
+      "name": "Orchid Park",
+      "locality": "Electronic City",
+      "city": "Bengaluru",
+      "status": "Under construction",
+      "possession": "Mar 2027",
+      "configurations": [
+        {"bhk": 1, "area_sqft": 640, "price_lakhs_min": 48, "price_lakhs_max": 55},
+        {"bhk": 2, "area_sqft": 980, "price_lakhs_min": 72, "price_lakhs_max": 82}
+      ],
+      "amenities": ["gym", "indoor games room", "kids play area", "24x7 security"],
+      "nearby": ["Infosys campus (3.5 km)", "Electronic City metro (planned)", "Hosur Road (1 km)"],
+      "visit_days": "Mon-Sat",
+      "visit_hours": "10:00-18:00"
+    }
+  ]
+}
